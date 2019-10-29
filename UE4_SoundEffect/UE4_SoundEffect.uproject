@@ -3,5 +3,31 @@
 	"EngineAssociation": "4.23",
 	"Category": "",
 	"Description": "",
-	"Enterprise": true
+	"Enterprise": true,
+	"Plugins": [
+		{
+			"Name": "SoundUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundVisualizations",
+			"Enabled": true
+		},
+		{
+			"Name": "TimeSynth",
+			"Enabled": true
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraExtras",
+			"Enabled": true
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
+		}
+	]
 }
